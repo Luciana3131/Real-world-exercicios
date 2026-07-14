@@ -1,8 +1,16 @@
 {  
-  "userSuccess" : {
+  "userSuccess":{
 
+      "username":"", 
+      "passworld":""
 
-  }
+    },
+
+ "userFail":{
+
+      "username":"test",
+      "passworld":"test"
+    }
+}
 
  
-}
